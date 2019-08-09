@@ -5,7 +5,7 @@ server:
     cookie:
       name: JSESSIONID
       path: /
-      domain: .i-zhiliao.com
+      domain: .xin5you.com
 spring:
   datasource:
     jndi-name: JDBC
@@ -168,10 +168,10 @@ yx:
       callbackRefundResultWithExpress: 
         method: /callbackRefundResultWithExpress
 #网易严选相关配置-----end
-CASH_URL: http://cas.i-zhiliao.com/ecom-cash/trans/order/unifiedOrder
-REDIRECT_URL: http://frt.i-zhiliao.com/ecom-front/goods/orderPay/redirectResult
-NOTIFY_URL: http://frt.i-zhiliao.com/ecom-front/goods/orderPay/backResult
+CASH_URL: http://cas.xin5you.com/ecom-cash/trans/order/unifiedOrder
+REDIRECT_URL: http://frt.xin5you.com/ecom-front/goods/orderPay/redirectResult
+NOTIFY_URL: http://frt.xin5you.com/ecom-front/goods/orderPay/backResult
 ECOM_SING_KEY: 5XsRyenq22OV2uOwgyHROjYKpECBlfUPk4fkMnt3ujb
-HKB_H5_URL: http://wx.i-zhiliao.com
-BM_NOTIFY_URL: http://frt.i-zhiliao.com/ecom-front/ecom/recharge/mobileRechargeBack
-OPEN_BM_NOTIFY_URL: http://frt.i-zhiliao.com/ecom-front/hkb/recharge/mobileRechargeBack
+HKB_H5_URL: http://wx.xin5you.com
+BM_NOTIFY_URL: http://frt.xin5you.com/ecom-front/ecom/recharge/mobileRechargeBack
+OPEN_BM_NOTIFY_URL: http://frt.xin5you.com/ecom-front/hkb/recharge/mobileRechargeBack
