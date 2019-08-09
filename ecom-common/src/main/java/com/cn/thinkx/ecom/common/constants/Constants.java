@@ -49,7 +49,7 @@ public class Constants {
 	
 	//手机充值退款加密key
 	public static final String PHONE_RECHARGE_REQ_KEY = "PHONE_RECHARGE_REQ_KEY";
-	public static final String PHONE_RECHARGE_REFUND = "TRANS_ORDER_REFUND";
+	public static final String PHONE_RECHARGE_REFUND = "PHONE_RECHARGE_REFUND";
 	
 	/** 自建电商退款*/
 	public static final String HKB_STORE_REFUND_KEY = "MYESHOP_SIGN_KEY";
